@@ -7,7 +7,9 @@ Note: This project is still in development.
 I have included django-debug-toolbar for debugging purposes,
 so you can see the queries that are being executed.
 
+
 ### Endpoints
+- /swagger/ - Swagger UI
 - /products/ - GET, POST
 - /products/:id/ - GET, PUT, PATCH, DELETE
 - /categories/ - GET, POST
